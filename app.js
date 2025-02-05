@@ -17,7 +17,7 @@ tl1.from("#line1-part1, .line h2",{
             }else{
                 h5Timer.innerHTML = grow
             }
-        },5);
+        },28);
     }
 });
 tl1.to(".line h2",{
